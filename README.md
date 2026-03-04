@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou o Tiago
-[Linkedin](https://www.linkedin.com/in/tiagoglueck/)  
+
 🎓 Estudante de Engenharia de Software  
 💻 Focado em desenvolvimento back-end  
-🚀 Buscando oportunidade de estágio em desenvolvimento  
+🚀 Buscando oportunidade de estágio em desenvolvimento
+
 ---
 ## 🚀 Tecnologias que utilizo
 - ☕ Java  
