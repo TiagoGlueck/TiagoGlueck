@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou o Tiago
 
 🎓 Estudante de Engenharia de Software  
 💻 Focado em desenvolvimento back-end  
