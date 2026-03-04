@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Tiago
 
-<!--
-**TiagoGlueck/TiagoGlueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Focado em desenvolvimento back-end  
+🚀 Buscando oportunidade de estágio em desenvolvimento  
 
-Here are some ideas to get you started:
+---
+## 🧠 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Engenharia de Software com foco em desenvolvimento de sistemas.  
+Gosto de resolver problemas com código e transformar ideias em aplicações funcionais.
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+- ☕ Java  
+- 🐍 Python
+- 𝐂 ++
+- 𝐂
+- 🔧 Git e GitHub  
+- 🐧 Linux  
+
+---
+
+
+
+## 📚 Atualmente estudando
+
+- 🗄️ MySQL
+- 🌱 Spring Boot
+- 📦 Maven
+- Boas práticas de código  
+- Arquitetura de Software  
+- APIs REST  
+
+---
+
+## 📫 Contato
+
+📎 [Linkedin](https://www.linkedin.com/in/tiagoglueck/)  
+
+---
+
+⭐ Sempre buscando aprender, evoluir e contribuir com projetos reais.
