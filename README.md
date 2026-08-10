@@ -21,15 +21,6 @@
 
 ---
 
-<h3 align="center">📊 Estatisticas do GitHub</h3>
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TiagoGlueck&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatisticas"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGlueck&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens"/>
-</div>
-
----
-
 <h3 align="center">📫 Onde me encontrar</h3>
 
 <p align="center">
